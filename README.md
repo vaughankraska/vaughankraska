@@ -1,5 +1,5 @@
 - Hi, I’m @vaughankraska
-- I’m interested in quantitative methods related to finance and investing.
+- I’m interested in quantitative methods related to finance, data science, and economics. I am also a web developer and am happy to contribute to any interesting projects. I have experience with java, node, and bootstrap.
 - I have experience:
   - Writing portfolio optimization scripts using linear programming and differential evolution algorithms.
   - Backtesting forecasting models such as GARCH and EWMA
