@@ -9,7 +9,7 @@
   - Monte Carlo simulation for stocks using stochastic volatilities
   - General data science and statistical models
   - Data Engineering: hadoop, cloud environments, map reduce programming
-  - SST
+  - SST and the AWS console
 
 <!---
 vaughankraska/vaughankraska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
