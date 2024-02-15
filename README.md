@@ -8,7 +8,7 @@
   - Backtesting forecasting models
   - Monte Carlo simulation for stocks using stochastic volatilities
   - General data science and statistical models
-  - Data Engineering: hadoop, cloud environments, map reduce programming
+  - Data Engineering: hadoop, cloud environments, docker, ray.
   - SST and the AWS console
 
 <!---
