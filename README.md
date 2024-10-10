@@ -5,7 +5,6 @@
   - Next JS/React
   - Building REST/GRAPHQL services for SQL databases
   - Writing portfolio optimization scripts using linear programming and differential evolution algorithms.
-  - Backtesting forecasting models
   - Lil bit of Rust
   - Data science (a masters degree actually)
   - Data Engineering: cloud environments, docker, ray, etc. 
